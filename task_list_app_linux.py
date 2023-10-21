@@ -127,7 +127,7 @@ def preview_deleted_items():
         return
     deleted_items_window = tk.Toplevel(window)
     deleted_items_window.title("Deleted Items")
-    deleted_items_window.geometry("800x715+380+50")
+    deleted_items_window.geometry("800x790+550+200")
     deleted_items_window.resizable(False, False)
     deleted_items_window.configure(background="#bfbfbf")
     deleted_items_window.columnconfigure(0, weight=1)
@@ -428,7 +428,7 @@ def open_condizioni():
 
 # layout grafico dell'applicazione finestra principale
 window = tk.Tk()
-window.geometry("800x715+380+50")
+window.geometry("800x790+500+120")
 window.title("task list")
 window.resizable(False, False)
 window.configure(background="#bfbfbf")
