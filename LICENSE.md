@@ -11,6 +11,8 @@ IL SOFTWARE È FORNITO “COSÌ COM’È”, SENZA GARANZIE DI ALCUN TIPO, ESPRE
 L’UTILIZZO DI QUESTO SOFTWARE È CONCESSO ESCLUSIVAMENTE PER SCOPI NON COMMERCIALI.
 MIT License
 
+---------------------------------------------------------------
+
 Copyright (c) 2024 Antonino Cacciottoli accybertech.it www.accybertech.it
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
