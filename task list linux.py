@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 import tkinter as tk
 from tkinter import messagebox, simpledialog, filedialog, ttk, Listbox, scrolledtext
