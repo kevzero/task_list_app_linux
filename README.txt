@@ -6,7 +6,7 @@
         \/         \/      \/ \/          \/      \/                    \/     \/      \/ \/           
 
                                              #######################################################
-                                             #Grazie per aver scaricato questa mia applicazione. ;)#
+                                             #                     thank you ;)                    #
                                              #######################################################
 
 Ti potrà essere utile per prendere appunti dove vuoi in qualunque momento, è portabile ossia non serve installazione appunto per poterla usare in ogni dove e senza per forza installare qualcosa cui non interessa su un pc magari non tuo e quindi non serve installare le tue cose...
@@ -17,3 +17,14 @@ Puoi scrivere liste e modificare, cancellare sia provvisoriamente che definitiva
 
 Nella sezione del  mio sito https://www.accybertech.it/task-list-app/ troverai tutto quello che ti serve riguardo a documentazione ecc...
 Se hai suggerimenti non esitare a contattarmi tramite la mia mail accybertech@outlook.it.
+
+-------------------------------------------------------------------------------------------
+
+It can be useful for taking notes wherever you want at any time, it is portable i.e. it does not require installation so you can use it anywhere and without necessarily installing something you are not interested in on a PC that may not be yours and therefore you do not need to install your things. ..
+
+It is small but is useful every day in many areas to keep in the background while you are working so as to always have it at hand to be able to take notes of any kind.
+
+You can write lists and modify, delete both temporarily and permanently, you can also save the list to be able to look at it in a different file and print it... it does whatever you want, I've now created it ;D
+
+In the section of my website https://www.accybertech.it/task-list-app/ you will find everything you need regarding documentation etc...
+If you have any suggestions, do not hesitate to contact me via my email acybertech@outlook.it.
